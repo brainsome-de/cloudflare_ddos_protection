@@ -40,7 +40,6 @@
   <body>
 
     <div class="pq-nav_header js-pq-nav_header">
-
       <a class="pq-logo_wrapper" href="/" id="rspec-logo_nav-link"><svg class="pq-logo" height="0" style="position: absolute" viewBox="0 0 84 60" width="0" x="0px" y="0px">
         <defs>
           <mask>
@@ -64,10 +63,8 @@
         </g>
       </svg>
       </a>
-
-
-
     </div>
+
     <div class="hidden l-background-layer"></div>
     <div class="l-movable-content">
 
